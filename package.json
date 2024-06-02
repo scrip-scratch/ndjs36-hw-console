@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "name": "console-hw",
+  "version": "1.0.0",
+  "main": "current.js",
+  "devDependencies": {},
+  "bin": {
+    "current-date": "./current.js",
+    "add-date": "./add.js",
+    "game": "./game.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
